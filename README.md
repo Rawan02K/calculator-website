@@ -1,9 +1,14 @@
 # calculator-website
 my first project 🔥
 
-#This is how it looks
+# This is how it looks 
 
 
 
-Uploading Screen Recording 2024-01-21 at 23.00.21.mov…
+
+
+https://github.com/Rawan02K/calculator-website/assets/102357265/64762f98-1fda-4200-8894-aeafc2c0dc4f
+
+
+
 
